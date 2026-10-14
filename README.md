@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Saleh Mahmoud
 
-<!--
-**SalehMahmoud0/SalehMahmoud0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior full-stack developer and IT support specialist based in Saudi Arabia. Open to any city. My iqama is transferable.
 
-Here are some ideas to get you started:
+## About me
+- BSc Software Engineering (GPA 3.85)
+- About 5 years of work experience in IT support and software development
+- Built a company website (nisaqco.com) and a 7-module ERP used by 6 colleagues, using Supabase and PostgreSQL
+- Languages: Arabic (native), English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+JavaScript, HTML, CSS, Supabase, PostgreSQL, ERP and application support, incident management, troubleshooting, technical documentation
+
+## Currently learning
+Python, SQL, Power BI, Microsoft Azure fundamentals and ITIL 4
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/saleh-mahmoud-168705182
+- Website: https://nisaqco.com
